@@ -8,6 +8,7 @@
     - 個人のゼミ活動は写真で作品制作
     - ゼミ全体はプロジェクションマッピングのBGMなどを作成
 - 写真が好きです
+- [ブログ](https://makikomitiger.com/)と[instagram](https://www.instagram.com/kana_nun_)を更新しています
 
 ## あだ名は[たいがー](https://twitter.com/MakikomiTiger)
 ### 気軽にたいがーと呼んでください。
@@ -38,7 +39,7 @@
 ##  ユーザーグループでのコミュニティ活動
 - 大学2年生の時、Amazon AlexaのLTを聞いたことがきっかけでユーザーグループに参加し始める
 - Amazon Alexaに関するLTをJAWSUG 神戸支部で何度か行う
-- [JAWS DAYS 2018](https://jawsdays2018.jaws-ug.jp/)でそれまでのコミュニティ活動に関するLTをし、3位を獲得
+- [JAWS DAYS 2018](https://jawsdays2018.jaws-ug.jp/)でそれまでのコミュニティ活動に関するLTをし、[3位](https://speakerdeck.com/ktkn1129/why-do-i-stand-here-now)を獲得
     - そのことがきっかけで海外のエヴァンジェリストと話し、いまだに交流がある
 - その後、高知で行われた[四国クラウドお遍路](http://ohenro.jaws-ug.jp/)でセッション、[コミュニティリーダーズサミット in 高知](https://eventregist.com/e/CLS_Kochi?lang=ja_JP)でLTを行う
 - Amazon Alexaのハンズオンを大学で実施
@@ -47,7 +48,7 @@
 - コミュニティ活動を通じて、タイ・韓国・シンガポール・アメリカ・イギリス・スペインの人々と交流を行った
     - AWS re:Invent 2018に参加したとき、とにかく色々な人に話しかけ、SNSなどでやり取りをしている
 - コミュニティ活動をきっかけにインターンシップをしている
-- [JAWS DAYS 2019](https://jawsdays2019.jaws-ug.jp/)では、機械学習に関するLTを行い、2位を獲得した
+- [JAWS DAYS 2019](https://jawsdays2019.jaws-ug.jp/)では、機械学習に関するLTを行い、[2位](https://speakerdeck.com/ktkn1129/katukowotukekirenaisi-falseji-jie-xue-xi-my-machine-learning-that-i-cant-show-off)を獲得した
 
 ### 学生コミュニティ(JAWS-SG)も準備中
 
