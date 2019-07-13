@@ -9,6 +9,10 @@
     - ゼミ全体はプロジェクションマッピングのBGMなどを作成
 - 写真が好きです
 - [ブログ](https://makikomitiger.com/)と[instagram](https://www.instagram.com/kana_nun_)を更新しています
+- コミュニティで登壇しています。
+    過去のスライドは[こちら](https://speakerdeck.com/ktkn1129)から
+- Alexa Skillを作成しました
+    - [today's coordinator](https://www.amazon.com/Kana-K-todays-coordinator/dp/B07F1NWRF3/ref=sr_1_1?keywords=Kana.K+alexa+skill&qid=1562982991&s=gateway&sr=8-1)
 
 ## あだ名は[たいがー](https://twitter.com/MakikomiTiger)
 ### 気軽にたいがーと呼んでください。
